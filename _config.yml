@@ -12,5 +12,9 @@ color:
     - '#FEFEFE'
 layout_spectrum: 0.7885835918132216
 name: tublblbl
+navigation:
+  - name: go to tree
+    id: 06f4c4a1-c63b-4ac4-b079-174985e6040d
+    type: content
 title: 난 누구인가가
 description: 또 여긴 어딘가가
